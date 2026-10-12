@@ -1,6 +1,7 @@
 # Blink Project 💡
 
 Projet de prise en main d'une carte Arduino Uno avec PlatformIO et VS Code, consistant à piloter le clignotement d'une LED externe via un circuit électronique de base.
+<img width="2304" height="4096" alt="1000071902" src="https://github.com/user-attachments/assets/a7560301-304c-4969-a9f6-b6597d8d7d45" />
 
 ---
 
